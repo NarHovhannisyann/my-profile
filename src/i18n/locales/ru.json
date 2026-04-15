@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Full-Stack Разработчик | Narek Hovannisyan",
+    "description": "Narek Hovannisyan — full-stack разработчик, специализирующийся на React, TypeScript, Node.js. Создание современных веб-приложений с чистой архитектурой и отличным пользовательским опытом.",
+    "keywords": "Narek Hovannisyan, full-stack разработчик, React, TypeScript, Node.js, веб-разработка, портфолио"
+  },
+  "nav": {
+    "projects": "Проекты",
+    "skills": "Навыки",
+    "experience": "Опыт",
+    "contact": "Контакт",
+    "about": "Обо мне",
+    "languages": "Языки"
+  },
+  "hero": {
+    "title": "Full-Stack Разработчик",
+    "subtitle": "Создаю современные веб-приложения с использованием передовых технологий. Увлечён чистым кодом, производительностью и идеальными интерфейсами.",
+    "cta": {
+      "projects": "Смотреть проекты",
+      "contact": "Связаться"
+    },
+    "availability": "Доступен для новых проектов"
+  },
+  "about": {
+    "title": "Обо мне",
+    "desc": "Увлечённый разработчик с опытом создания масштабируемых приложений. Объединяю техническое совершенство с креативным решением задач.",
+    "cards": [
+      {
+        "title": "Чистая архитектура",
+        "desc": "Создание поддерживаемых систем с применением лучших практик проектирования."
+      },
+      {
+        "title": "Производительность",
+        "desc": "Оптимизация каждой миллисекунды для молниеносного опыта."
+      },
+      {
+        "title": "Современный стек",
+        "desc": "Использование передовых технологий для приложений будущего."
+      }
+    ],
+    "stats": {
+      "years": "Лет опыта",
+      "projects": "Проектов",
+      "clients": "Клиентов"
+    }
+  },
+  "skills": {
+    "title": "Лаборатория навыков",
+    "subtitle": "Исследуйте мой технический инструментарий через интерактивные демонстрации",
+    "categories": {
+      "frontend": "Фронтенд",
+      "ui": "UI/UX",
+      "vue": "Экосистема Vue",
+      "backend": "Бэкенд",
+      "data": "Данные",
+      "devops": "DevOps/Облако",
+      "tooling": "Инструменты",
+      "platforms": "Платформы",
+      "seo": "SEO"
+    },
+    "playPause": {
+      "play": "Запустить демо",
+      "pause": "Пауза"
+    },
+    "useCases": "Применение",
+    "items": {
+      "react": { "name": "React", "useCases": ["SPA приложения", "Библиотеки компонентов", "Дашборды"] },
+      "typescript": { "name": "TypeScript", "useCases": ["Типобезопасность", "Крупные проекты", "API контракты"] },
+      "nextjs": { "name": "Next.js", "useCases": ["SSR/SSG сайты", "Fullstack", "E-commerce"] },
+      "tailwind": { "name": "Tailwind CSS", "useCases": ["Быстрый UI", "Дизайн-системы", "Адаптив"] },
+      "redux": { "name": "Redux Toolkit", "useCases": ["Состояние", "Кэширование", "Отладка"] },
+      "vue": { "name": "Vue.js", "useCases": ["PWA", "Интерактивный UI", "Реактивность"] },
+      "nuxt": { "name": "Nuxt.js", "useCases": ["Universal", "Статика", "Middleware"] },
+      "pinia": { "name": "Pinia", "useCases": ["Vue состояние", "Модули", "DevTools"] },
+      "nodejs": { "name": "Node.js", "useCases": ["REST API", "Realtime", "Микросервисы"] },
+      "express": { "name": "Express", "useCases": ["API", "Middleware", "Бэкенд"] },
+      "graphql": { "name": "GraphQL", "useCases": ["Гибкие API", "Агрегация", "Мобильные"] },
+      "websockets": { "name": "WebSockets", "useCases": ["Чат", "Realtime", "Игры"] },
+      "rest": { "name": "REST API", "useCases": ["CRUD", "Интеграции", "Мобильные API"] },
+      "postgresql": { "name": "PostgreSQL", "useCases": ["Реляционные данные", "Запросы", "Целостность"] },
+      "mongodb": { "name": "MongoDB", "useCases": ["Документы", "Гибкие схемы", "Аналитика"] },
+      "redis": { "name": "Redis", "useCases": ["Кэш", "Сессии", "Rate limiting"] },
+      "docker": { "name": "Docker", "useCases": ["Контейнеры", "Dev окружения", "Микросервисы"] },
+      "kubernetes": { "name": "Kubernetes", "useCases": ["Оркестрация", "Масштабирование", "Балансировка"] },
+      "aws": { "name": "AWS", "useCases": ["Облако", "Serverless", "CDN"] },
+      "git": { "name": "Git", "useCases": ["Версии", "Команда", "CI/CD"] },
+      "webpack": { "name": "Webpack", "useCases": ["Бандлы", "Splitting", "Ресурсы"] },
+      "vite": { "name": "Vite", "useCases": ["Dev сервер", "Сборки", "HMR"] },
+      "vercel": { "name": "Vercel", "useCases": ["Деплой", "Edge", "Preview"] },
+      "supabase": { "name": "Supabase", "useCases": ["BaaS", "Realtime DB", "Auth"] },
+      "figma": { "name": "Figma", "useCases": ["UI дизайн", "Прототипы", "Дизайн-системы"] },
+      "framer": { "name": "Framer Motion", "useCases": ["Анимации", "Переходы", "Жесты"] },
+      "seo": { "name": "SEO", "useCases": ["Оптимизация", "Мета-теги", "Schema"] }
+    }
+  },
+  "projects": {
+    "title": "Избранные проекты",
+    "subtitle": "Подборка проектов, демонстрирующих мои навыки и опыт",
+    "viewCase": "Кейс-стади",
+    "viewLive": "Демо",
+    "viewCode": "Код",
+    "close": "Закрыть",
+    "problem": "Проблема",
+    "solution": "Решение",
+    "result": "Результат",
+    "stack": "Технологии",
+    "screenshots": "Скриншоты",
+    "owned": "Моя ответственность",
+    "items": {
+      "ecommerce": {
+        "title": "E-Commerce платформа",
+        "desc": "Полнофункциональная платформа электронной коммерции с realtime инвентаризацией и админ-панелью.",
+        "role": "Ведущий Full-Stack разработчик",
+        "problem": "Клиенту требовалось масштабируемое решение для 10,000+ одновременных пользователей с realtime обновлениями.",
+        "solution": "Построил микросервисную архитектуру с React, Node.js, Redis кэшированием и PostgreSQL. WebSocket для live инвентаря.",
+        "result": "99.9% uptime, 200мс среднее время ответа, рост конверсии на 40%.",
+        "owned1": "Архитектура системы и дизайн БД",
+        "owned2": "Интеграция платежей и checkout",
+        "owned3": "Система синхронизации инвентаря"
+      },
+      "analytics": {
+        "title": "Аналитический дашборд",
+        "desc": "Realtime визуализация данных с кастомными графиками и фильтрами.",
+        "role": "Frontend Lead",
+        "problem": "Маркетинговой команде нужен был инструмент для визуализации данных из разных источников.",
+        "solution": "Интерактивные дашборды на Vue.js, D3.js для кастомных графиков, GraphQL для данных.",
+        "result": "Время генерации отчётов сократилось с 2 часов до 5 минут.",
+        "owned1": "Кастомные D3.js компоненты",
+        "owned2": "GraphQL интеграция"
+      },
+      "mobileApp": {
+        "title": "Фитнес-приложение",
+        "desc": "Кросс-платформенное приложение для отслеживания тренировок с AI-рекомендациями.",
+        "role": "Full-Stack разработчик",
+        "problem": "Пользователям нужна единая платформа для трекинга тренировок и питания.",
+        "solution": "React Native приложение с Firebase бэкендом и AI рекомендациями на TensorFlow.js.",
+        "result": "50,000+ загрузок за первый месяц, рейтинг 4.8 звёзд.",
+        "owned1": "Разработка мобильного приложения",
+        "owned2": "AI движок рекомендаций"
+      }
+    }
+  },
+  "experience": {
+    "title": "Опыт работы",
+    "subtitle": "Мой профессиональный путь в разработке",
+    "companies": {
+      "techCorp": "TechCorp Inc.",
+      "startupInc": "Startup Inc.",
+      "agencyPro": "Agency Pro"
+    },
+    "roles": {
+      "seniorDev": "Senior Full-Stack разработчик",
+      "fullstackDev": "Full-Stack разработчик",
+      "frontendDev": "Frontend разработчик"
+    },
+    "periods": {
+      "techCorp": "2022 - Настоящее время",
+      "startupInc": "2020 - 2022",
+      "agencyPro": "2018 - 2020"
+    },
+    "bullets": {
+      "techCorp": {
+        "bullet1": "Руководил разработкой микросервисов для 1M+ пользователей",
+        "bullet2": "Менторил junior разработчиков, установил стандарты кода",
+        "bullet3": "Сократил время деплоя на 60% через улучшение CI/CD"
+      },
+      "startupInc": {
+        "bullet1": "Построил MVP с нуля, помог привлечь $2M инвестиций",
+        "bullet2": "Реализовал realtime коллаборацию на WebSockets",
+        "bullet3": "Оптимизировал запросы к БД, улучшив производительность в 3 раза"
+      },
+      "agencyPro": {
+        "bullet1": "Сдал 20+ клиентских проектов в срок и в рамках бюджета",
+        "bullet2": "Специализация на адаптивном дизайне и доступности"
+      }
+    }
+  },
+  "languages": {
+    "title": "Языки",
+    "subtitle": "Языки, на которых я говорю",
+    "names": {
+      "armenian": "Армянский",
+      "russian": "Русский",
+      "english": "Английский"
+    },
+    "notes": {
+      "armenian": "Родной язык",
+      "russian": "Свободное владение",
+      "english": "Профессиональный уровень"
+    },
+    "level": {
+      "1": "Базовый",
+      "2": "Разговорный",
+      "3": "Средний",
+      "4": "Профессиональный",
+      "5": "Родной"
+    }
+  },
+  "contact": {
+    "title": "Связаться",
+    "subtitle": "Есть идея проекта? Давайте обсудим, как воплотить её в жизнь.",
+    "form": {
+      "name": "Ваше имя",
+      "email": "Ваш Email",
+      "message": "Сообщение",
+      "submit": "Отправить",
+      "sending": "Отправка...",
+      "success": "Сообщение отправлено!",
+      "error": "Ошибка отправки. Попробуйте снова."
+    },
+    "validation": {
+      "nameRequired": "Введите имя",
+      "nameMax": "Имя должно быть менее 100 символов",
+      "emailRequired": "Введите email",
+      "emailInvalid": "Неверный формат email",
+      "emailMax": "Email должен быть менее 255 символов",
+      "messageRequired": "Введите сообщение",
+      "messageMax": "Сообщение должно быть менее 1000 символов"
+    },
+    "links": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "telegram": "Telegram"
+    },
+    "orConnect": "Или напишите напрямую"
+  },
+  "footer": {
+    "rights": "Все права защищены",
+    "builtWith": "Создано на React + Tailwind CSS",
+    "backToTop": "Наверх"
+  },
+  "accessibility": {
+    "menuOpen": "Открыть меню",
+    "menuClose": "Закрыть меню",
+    "languageSwitch": "Сменить язык",
+    "currentLanguage": "Текущий язык"
+  }
+}
